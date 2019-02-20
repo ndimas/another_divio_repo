@@ -11,7 +11,7 @@ INSTALLED_ADDONS = [
 import aldryn_addons.settings
 aldryn_addons.settings.load(locals())
 
-
+# just a comment
 # all django settings can be altered here
 
 INSTALLED_APPS.extend([
